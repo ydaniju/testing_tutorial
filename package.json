@@ -1,0 +1,12 @@
+{
+  "name": "testing_tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial on testing in JS using jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "@ydaniju",
+  "license": "ISC"
+}
