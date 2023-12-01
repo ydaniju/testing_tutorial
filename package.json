@@ -8,5 +8,8 @@
     "test:coverage": "jest --coverage"
   },
   "author": "@ydaniju",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
